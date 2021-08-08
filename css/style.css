@@ -1232,6 +1232,8 @@ body {
       display: block;
       margin: 0 auto;
       margin-bottom: 20px; }
+  .header .main__left-content {
+    width: 85%; }
   .tools button {
     margin-top: 50px; }
   .reviews__text {
